@@ -1,3 +1,7 @@
+<p align="center">
+  
+  ![PYTHON](https://img.shields.io/badge/PYTHON-555555?style=for-the-badge)![3.10+](https://img.shields.io/badge/3.10%2B-0078FF?style=for-the-badge) ![PLATFORM](https://img.shields.io/badge/PLATFORM-555555?style=for-the-badge)![LINUX](https://img.shields.io/badge/LINUX-F15A24?style=for-the-badge) ![CATEGORY](https://img.shields.io/badge/CATEGORY-555555?style=for-the-badge)![NETWORKING](https://img.shields.io/badge/NETWORKING-F7C600?style=for-the-badge) ![TOOLS USED](https://img.shields.io/badge/TOOLS%20USED-555555?style=for-the-badge)![iproute2 | ping | subprocess](https://img.shields.io/badge/iproute2%20%7C%20ping%20%7C%20subprocess-E5736A?style=for-the-badge)
+</p>
 # operating-system-subnetting
 ## About the Code
 
